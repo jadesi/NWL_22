@@ -6,9 +6,9 @@
 
 Projeto construído durante o evento o evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://jadesi.github.io/nlw-esports-2022/)
+[🔗 Clique aqui para acessar](https://jadesi.github.io/nlw-esports-2022/)
 
-## Tecnologias
+## ⚒️ Tecnologias
 
 - HTML
 - CSS
